@@ -1,0 +1,9 @@
+[user]
+	email = florianspk@gmail.com
+	name = florianspk
+[push]
+	default = simple
+[init]
+	defaultBranch = master
+[safe]
+	directory = /snap/microk8s/current/addons/community/.git
